@@ -1,5 +1,12 @@
 # 井字棋游戏
 
-## yarn start
+## 运行
 
-## yarn run build
+```
+yarn start
+```
+
+## 版本
+
+简单版 1.0.0
+复杂版 2.0.0
